@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple clone of of Google's homepage as it appeared in 1998.
+A simple clone of Google's homepage as it appeared in 1998.
 
 It uses basic HTML and CSS to recreate the look and feel of the original site, offering a nostalgic glimpse into the early days of Google.
 
